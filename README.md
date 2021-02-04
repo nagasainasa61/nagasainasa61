@@ -1,4 +1,5 @@
-### Hello !! Basvoju Nagasai 👋
+<h1 align="center"> Hey there! I'm Basvoju Nagasai<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
+<br>
 
 - 🔭 I’m currently working on Mac Layer in 4G Technology
 - 🌱 I’m currently learning Network Architecture in Telecommunication
