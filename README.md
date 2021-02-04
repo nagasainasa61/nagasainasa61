@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello !! Basvoju Nagasai 👋
+
+- 🔭 I’m currently working on Mac Layer in 4G Technology
+- 🌱 I’m currently learning Network Architecture in Telecommunication
 
 <!--
 **nagasainasa61/nagasainasa61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
